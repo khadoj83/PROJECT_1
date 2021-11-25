@@ -1,5 +1,5 @@
 # PROJECT_1
-
+## project_proposal
 #### *Machine Learning in FinTech*:  
 with your group suggest and research one Use case in Fintech, locate some data in this space, explore it a bit, and choose a model you'd like to work with.
 
